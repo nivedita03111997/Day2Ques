@@ -1,0 +1,7 @@
+D:\git_prac\gitlearn\minMaxPrime\bin\Debug\minMaxPrime.exe.config
+D:\git_prac\gitlearn\minMaxPrime\bin\Debug\minMaxPrime.exe
+D:\git_prac\gitlearn\minMaxPrime\bin\Debug\minMaxPrime.pdb
+D:\git_prac\gitlearn\minMaxPrime\obj\Debug\minMaxPrime.csprojAssemblyReference.cache
+D:\git_prac\gitlearn\minMaxPrime\obj\Debug\minMaxPrime.csproj.CoreCompileInputs.cache
+D:\git_prac\gitlearn\minMaxPrime\obj\Debug\minMaxPrime.exe
+D:\git_prac\gitlearn\minMaxPrime\obj\Debug\minMaxPrime.pdb
