@@ -27,6 +27,8 @@ namespace minMaxPrime
                 if (flag == false)
                 {
                     Console.WriteLine(i);
+                    Console.WriteLine("Nidhi Kumari");
+                    Console.ReadKey();
                 }
             }
         }
